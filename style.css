@@ -90,7 +90,10 @@ section{
     border-radius: 5px;
     color: white;
 }
-
+#link-decoration{
+    text-decoration: none;
+    color: white;
+}
 footer p{
     font-size: 15px;
     text-align: center;
