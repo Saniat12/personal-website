@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange_highlight{
+    color: orange;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half_width img{
+    width: 100%;
+}
+.paragraph-position{
+    padding-top: 100px;
+    line-height: 25px;
+}
+.background_image01{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(245, 11, 128),rgb(241, 92, 6));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.background_image02{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.background_image03 h1{
+    font-size: 40px;
+    text-align: center;
+}
+.image-area{
+    padding-left: 50px;
+}
+.image_position{
+    float: left;
+    width: 30%;
+    padding: 10px 15px;       
+}
+.image_position img{
+    width: 100%;
+}
+
+.background_image03{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.background_image04{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.paragraph-position02{
+    text-align: center;
+}
+.comment-box{
+        float: left;    
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 10px;
+        width: 30%;
+        height: 250px;
+        background-color:white;
+        margin-left: 40px;
+        margin-top: 20px;
+        margin-bottom: 50px;        
+}
+.comment-box p{
+    padding: 5px 20px;
+}
+
+.message-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(245, 11, 128),rgb(241, 92, 6));
+    text-align: center;
+    padding: 20px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#link-font{
+    font-size: 25px;
+}
+
+footer p{
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+    padding-bottom: 20px;
+}
