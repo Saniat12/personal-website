@@ -75,37 +75,26 @@ section{
 .paragraph-position02{
     text-align: center;
 }
-.comment-box{
-        float: left;    
-        box-shadow: 10px 10px 40px gray;
-        border-radius: 10px;
-        width: 30%;
-        height: 250px;
-        background-color:white;
-        margin-left: 40px;
-        margin-top: 20px;
-        margin-bottom: 50px;        
+.comment-area{
+        padding: 20px 50px;        
 }
-.comment-box p{
-    padding: 5px 20px;
+.comment-area p{
+    padding: 5px 450px;
 }
 
-.message-button{
-    text-decoration: none;
-    background-image: linear-gradient(45deg,rgb(245, 11, 128),rgb(241, 92, 6));
-    text-align: center;
-    padding: 20px 50px;
+.button-color{
+    background-image: linear-gradient(45deg,rgb(223, 8, 115),rgb(245, 46, 11));
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 15px;
     border-radius: 5px;
     color: white;
-    font-weight: bold;
-}
-#link-font{
-    font-size: 25px;
 }
 
 footer p{
     font-size: 15px;
     text-align: center;
     color: gray;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
